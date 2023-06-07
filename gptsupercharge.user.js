@@ -7,7 +7,7 @@
 // @downloadURL  https://github.com/iinsertNameHere/GPTSupercharge/raw/main/gptsupercharge.user.js
 // @updateURL    https://github.com/iinsertNameHere/GPTSupercharge/raw/main/gptsupercharge.user.js
 // @author       iinsert
-// @match        https://chat.openai.com/*a
+// @match        https://chat.openai.com/*
 // @grant        none
 // ==/UserScript==
 
