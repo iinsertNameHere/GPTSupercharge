@@ -1,11 +1,13 @@
 // ==UserScript==
-// @name         ChatGPT auto Continue
+// @name         GPT-Supercharge
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  Clicks the ChatGPT Continue button indefinitely
+// @description  Supercharges ChatGPT by adding new usefull features
 // @icon         https://img.icons8.com/?size=120&id=63264&format=png
+// @downloadURL  https://github.com/iinsertNameHere/GPTSupercharge/raw/main/gptsupercharge.user.js
+// @updateURL    https://github.com/iinsertNameHere/GPTSupercharge/raw/main/gptsupercharge.user.js
 // @author       iinsert
-// @match        https://chat.openai.com/*
+// @match        https://chat.openai.com/*a
 // @grant        none
 // ==/UserScript==
 
